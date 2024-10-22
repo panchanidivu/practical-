@@ -2,6 +2,7 @@
 
 intall mysql 
 create mysql schema name=dp
+now change password in application properties
 
 install kafka in your system and run 
 now create three topic 
